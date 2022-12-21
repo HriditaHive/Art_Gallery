@@ -59,3 +59,4 @@ CREATE TABLE transactions (
     FOREIGN KEY (art_name) REFERENCES artwork(name),
     FOREIGN KEY (cust_name) REFERENCES customer(name)
 );
+
