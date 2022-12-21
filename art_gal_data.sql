@@ -2,12 +2,14 @@ USE art_gal;
 
 INSERT INTO artgroup (name)
 VALUES
-("Baroque"),
-("Cubism"),
-("Impressionism"),
+("Academic"),
+("Post-Impressionism"),
+("Symbolism"),
 ("Renaissance"),
-("Romanticism"),
-("Symbolism")
+("Traditional"),
+("Pop Art"),
+("Surrealism"),
+("Impressionism")
 ;
 
 INSERT INTO artist (name, birthplace, age, group_name)
@@ -69,7 +71,7 @@ VALUES
 
 INSERT INTO transactions (art_name, cust_name, day)
 VALUES
-("Sunrise"",            "Subrata Basu",    "2022-05-17"),
+("Sunrise",            "Subrata Basu",    "2022-05-17"),
 ("Water Lily Pond",     "Subrata Basu",    "2022-03-19"),
 ("The Starry Night",    "Roshan Singh",    "2021-04-21"),
 ("Gopini",              "Suranjana Saha",  "2021-08-23"),
