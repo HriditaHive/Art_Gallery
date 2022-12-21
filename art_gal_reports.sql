@@ -1,5 +1,5 @@
-CREATE DATABASE Art_Gal;
-USE Art_Gal;
+CREATE DATABASE art_Gal;
+USE art_Gal;
 
 CREATE TABLE artgroup (
     name VARCHAR(25),
