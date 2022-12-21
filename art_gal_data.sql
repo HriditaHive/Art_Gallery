@@ -1,4 +1,4 @@
-USE art_gal;
+USE art_Gal;
 
 INSERT INTO artgroup (name)
 VALUES
