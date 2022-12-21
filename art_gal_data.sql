@@ -71,7 +71,7 @@ INSERT INTO transactions (art_name, cust_name, day)
 VALUES
 ("Sunrise"",            "Subrata Basu",    "2022-05-17"),
 ("Water Lily Pond",     "Subrata Basu",    "2022-03-19"),
-("The Starry Nights",   "Roshan Singh",    "2021-04-21"),
+("The Starry Night",    "Roshan Singh",    "2021-04-21"),
 ("Gopini",              "Suranjana Saha",  "2021-08-23"),
 ("Damyanti",            "Anirban Naskar",  "2021-08-23"),
 ("Three Girls",         "Anirban Naskar",  "2022-03-10")
