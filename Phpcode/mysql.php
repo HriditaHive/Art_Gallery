@@ -1,6 +1,6 @@
 <?php
 // Connect to the database
-$conn = new mysqli("localhost", "root", "", "art_gallery");
+$conn = new mysqli("localhost", "root", "", "art_gal");
 
 // Check connection
 if ($conn->connect_error) {
